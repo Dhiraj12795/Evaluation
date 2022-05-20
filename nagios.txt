@@ -1,0 +1,3 @@
+nagios-html url= http://localhost/nagios/
+cgi html url= http://localhost/nagios/cgi-bin/
+
